@@ -1,2 +1,0 @@
-(this["webpackJsonp30-days-chess"]=this["webpackJsonp30-days-chess"]||[]).push([[0],{11:function(e,s,c){"use strict";c.r(s);var n=c(1),t=c.n(n),a=c(3),r=c.n(a),d=(c(8),c(9),c(0));var i=function(){return Object(d.jsx)("div",{className:"App",children:Object(d.jsx)("header",{className:"App-header",children:"30 Days of Chess \u265f\ufe0f"})})};r.a.render(Object(d.jsx)(t.a.StrictMode,{children:Object(d.jsx)(i,{})}),document.getElementById("root"))},8:function(e,s,c){},9:function(e,s,c){}},[[11,1,2]]]);
-//# sourceMappingURL=main.0ed82805.chunk.js.map
