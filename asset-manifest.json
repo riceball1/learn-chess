@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/30-days-chess/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/30-days-chess/static/js/main.37c09a98.chunk.js",
+    "main.js.map": "/30-days-chess/static/js/main.37c09a98.chunk.js.map",
+    "runtime-main.js": "/30-days-chess/static/js/runtime-main.a7a771fc.js",
+    "runtime-main.js.map": "/30-days-chess/static/js/runtime-main.a7a771fc.js.map",
+    "static/js/2.7dd169de.chunk.js": "/30-days-chess/static/js/2.7dd169de.chunk.js",
+    "static/js/2.7dd169de.chunk.js.map": "/30-days-chess/static/js/2.7dd169de.chunk.js.map",
+    "static/js/3.695af74d.chunk.js": "/30-days-chess/static/js/3.695af74d.chunk.js",
+    "static/js/3.695af74d.chunk.js.map": "/30-days-chess/static/js/3.695af74d.chunk.js.map",
+    "index.html": "/30-days-chess/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/30-days-chess/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.7dd169de.chunk.js.LICENSE.txt": "/30-days-chess/static/js/2.7dd169de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/30-days-chess/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a771fc.js",
+    "static/js/2.7dd169de.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.37c09a98.chunk.js"
+  ]
+}
