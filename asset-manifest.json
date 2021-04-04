@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/30-days-chess/static/css/main.2de96db4.chunk.css",
+    "main.css": "/30-days-chess/static/css/main.e6e3b0e6.chunk.css",
     "main.js": "/30-days-chess/static/js/main.d16a9b70.chunk.js",
     "main.js.map": "/30-days-chess/static/js/main.d16a9b70.chunk.js.map",
     "runtime-main.js": "/30-days-chess/static/js/runtime-main.83ad6eee.js",
@@ -8,13 +8,13 @@
     "static/js/2.7dd169de.chunk.js": "/30-days-chess/static/js/2.7dd169de.chunk.js",
     "static/js/2.7dd169de.chunk.js.map": "/30-days-chess/static/js/2.7dd169de.chunk.js.map",
     "index.html": "/30-days-chess/index.html",
-    "static/css/main.2de96db4.chunk.css.map": "/30-days-chess/static/css/main.2de96db4.chunk.css.map",
+    "static/css/main.e6e3b0e6.chunk.css.map": "/30-days-chess/static/css/main.e6e3b0e6.chunk.css.map",
     "static/js/2.7dd169de.chunk.js.LICENSE.txt": "/30-days-chess/static/js/2.7dd169de.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.83ad6eee.js",
     "static/js/2.7dd169de.chunk.js",
-    "static/css/main.2de96db4.chunk.css",
+    "static/css/main.e6e3b0e6.chunk.css",
     "static/js/main.d16a9b70.chunk.js"
   ]
 }
