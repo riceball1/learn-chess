@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/learn-chess/static/css/main.a0855903.chunk.css",
-    "main.js": "/learn-chess/static/js/main.f28b65b5.chunk.js",
-    "main.js.map": "/learn-chess/static/js/main.f28b65b5.chunk.js.map",
+    "main.js": "/learn-chess/static/js/main.efe9d703.chunk.js",
+    "main.js.map": "/learn-chess/static/js/main.efe9d703.chunk.js.map",
     "runtime-main.js": "/learn-chess/static/js/runtime-main.02015613.js",
     "runtime-main.js.map": "/learn-chess/static/js/runtime-main.02015613.js.map",
     "static/js/2.ef1aefe6.chunk.js": "/learn-chess/static/js/2.ef1aefe6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.02015613.js",
     "static/js/2.ef1aefe6.chunk.js",
     "static/css/main.a0855903.chunk.css",
-    "static/js/main.f28b65b5.chunk.js"
+    "static/js/main.efe9d703.chunk.js"
   ]
 }
