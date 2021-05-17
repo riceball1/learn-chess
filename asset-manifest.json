@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/learn-chess/static/css/main.a0855903.chunk.css",
-    "main.js": "/learn-chess/static/js/main.efe9d703.chunk.js",
-    "main.js.map": "/learn-chess/static/js/main.efe9d703.chunk.js.map",
+    "main.css": "/learn-chess/static/css/main.07505bc0.chunk.css",
+    "main.js": "/learn-chess/static/js/main.961e50d8.chunk.js",
+    "main.js.map": "/learn-chess/static/js/main.961e50d8.chunk.js.map",
     "runtime-main.js": "/learn-chess/static/js/runtime-main.02015613.js",
     "runtime-main.js.map": "/learn-chess/static/js/runtime-main.02015613.js.map",
-    "static/js/2.ef1aefe6.chunk.js": "/learn-chess/static/js/2.ef1aefe6.chunk.js",
-    "static/js/2.ef1aefe6.chunk.js.map": "/learn-chess/static/js/2.ef1aefe6.chunk.js.map",
+    "static/js/2.1721fccb.chunk.js": "/learn-chess/static/js/2.1721fccb.chunk.js",
+    "static/js/2.1721fccb.chunk.js.map": "/learn-chess/static/js/2.1721fccb.chunk.js.map",
     "index.html": "/learn-chess/index.html",
-    "static/css/main.a0855903.chunk.css.map": "/learn-chess/static/css/main.a0855903.chunk.css.map",
-    "static/js/2.ef1aefe6.chunk.js.LICENSE.txt": "/learn-chess/static/js/2.ef1aefe6.chunk.js.LICENSE.txt"
+    "static/css/main.07505bc0.chunk.css.map": "/learn-chess/static/css/main.07505bc0.chunk.css.map",
+    "static/js/2.1721fccb.chunk.js.LICENSE.txt": "/learn-chess/static/js/2.1721fccb.chunk.js.LICENSE.txt",
+    "static/media/chesspiece.a574e119.png": "/learn-chess/static/media/chesspiece.a574e119.png"
   },
   "entrypoints": [
     "static/js/runtime-main.02015613.js",
-    "static/js/2.ef1aefe6.chunk.js",
-    "static/css/main.a0855903.chunk.css",
-    "static/js/main.efe9d703.chunk.js"
+    "static/js/2.1721fccb.chunk.js",
+    "static/css/main.07505bc0.chunk.css",
+    "static/js/main.961e50d8.chunk.js"
   ]
 }
