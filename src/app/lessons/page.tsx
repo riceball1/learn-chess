@@ -76,9 +76,8 @@ export default function LessonsPage() {
 										key={lesson.id}
 										className="p-4 text-left border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 hover:shadow-md transition-all duration-200 bg-white dark:bg-gray-800 hover:bg-blue-50 dark:hover:bg-gray-700"
 										onClick={() => {
-											// TODO: Navigate to lesson page
-											console.log(`Starting lesson: ${lesson.title}`);
-										}}
+											window.location.href = `/lessons/${lesson.id}`;
+										  }}
 									>
 										<h3 className="font-semibold text-lg mb-2">{lesson.title}</h3>
 										<p className="text-sm text-gray-600 dark:text-gray-300">
