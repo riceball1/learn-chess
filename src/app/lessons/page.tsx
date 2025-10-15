@@ -1,4 +1,5 @@
 "use client";
+import  Link from 'next/link'
 
 export default function LessonsPage() {
 	const categories = [
@@ -63,7 +64,7 @@ export default function LessonsPage() {
 				</div>
 
 				<div className="space-y-12">
-					{categories.map((category, categoryIndex) => (
+					{categories.map((category) => (
 						<section key={category.title} className="space-y-6">
 							<div className="border-b border-gray-200 dark:border-gray-700 pb-4">
 								<h2 className="text-2xl font-semibold mb-2">{category.title}</h2>
@@ -71,7 +72,7 @@ export default function LessonsPage() {
 							</div>
 							
 							<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-								{category.lessons.map((lesson, lessonIndex) => (
+								{category.lessons.map((lesson) => (
 									<button
 										key={lesson.id}
 										className="p-4 text-left border border-gray-200 dark:border-gray-700 rounded-lg hover:border-blue-500 hover:shadow-md transition-all duration-200 bg-white dark:bg-gray-800 hover:bg-blue-50 dark:hover:bg-gray-700"
@@ -91,12 +92,12 @@ export default function LessonsPage() {
 				</div>
 
 				<div className="mt-12 text-center">
-					<a 
+					<Link
 						href="/" 
 						className="inline-block px-6 py-3 border border-gray-300 dark:border-gray-600 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors"
 					>
 						← Back to Home
-					</a>
+					</Link>
 				</div>
 			</div>
 		</main>

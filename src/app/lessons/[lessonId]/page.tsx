@@ -1,10 +1,11 @@
-
-interface Params {
-    lessonId: string
-}
+import Link from "next/link";
 
 
-export default function Lesson({params} : { params: Params}) {
-    console.log('params', params.lessonId)
-    return <h1>Lesson</h1>
+export default function Lesson() {
+    return (
+        <main className="min-h-screen grid place-items-center p-8">
+            <h1>Lesson</h1>
+            <Link href="/lessons"> Back to Lessons</Link>
+        </main>
+    )
 }
